@@ -1,0 +1,2 @@
+# Betcoin
+Betcoin Whitepaper
